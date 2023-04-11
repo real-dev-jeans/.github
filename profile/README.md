@@ -6,4 +6,4 @@
 - Infra : 김신우, 홍은영
 
 	
-[개발진스](https://devjeans.dev-hee.com).
+[개발진스](https://devjeans.dev-hee.com)
